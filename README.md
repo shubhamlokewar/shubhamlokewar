@@ -1,10 +1,10 @@
-## Hey 👋🏻, I'm [Shubham Lokewar!](Portfolio Link) 
+## Hey 👋🏻, I'm Shubham Lokewar! 
 ### Python Developer & Data Analyst 🚀
 
 My go-to stack is **Python, Django, HTML,  CSS, JavaScript, SQL, Power BI, and Machine Learning** for building web-based applications and data-driven solutions. I enjoy developing practical projects, working with databases, creating interactive dashboards, and turning data into meaningful insights. I’m continuously improving my skills in **backend development, data analytics, visualization, and software development** while building real-world solutions.
 .
 
-* 🖥️  See my portfolio at [shubham](Link)
+* 🖥️  See my portfolio at [shubhamlokewar](Link)
 * 📫  You can reach me at [shubhamlokewarr@gmail.com](mailto:shubhamlokewarr@gmail.com)
 * ⚡  Ask me about anything, I am happy to help
 
